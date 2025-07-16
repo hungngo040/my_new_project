@@ -1,2 +1,2 @@
 console.log('login feature')
-Here are some text to cause conflict Version 2
+Here is the final text to resolve the conflict
